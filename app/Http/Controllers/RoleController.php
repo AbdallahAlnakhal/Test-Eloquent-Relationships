@@ -12,4 +12,6 @@ class RoleController extends Controller
 
         return view('roles.index', compact('roles'));
     }
+   
 }
+
